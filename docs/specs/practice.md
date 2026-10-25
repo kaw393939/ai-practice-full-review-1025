@@ -28,6 +28,6 @@ The relevant file is `app/public/index.html`. Start with a plan before editing.
 
 | Feature | Issue | Implementation | How to check |
 | --- | --- | --- | --- |
-| PRACTICE-001 | Add your own issue URL. | Not implemented in this starter. | Not verified for your change. |
+| PRACTICE-001 | [Issue #1](https://github.com/kaw393939/ai-practice-full-review-1025/issues/1) | [HTML on practice-001-note-help](https://github.com/kaw393939/ai-practice-full-review-1025/blob/practice-001-note-help/app/public/index.html). | `npm test`: 6 passed. `npm run docs:build`: passed. User browser checks after restart/refresh: exact help below Note before typing; new `https://git-scm.com/docs/git-diff` saved with note; resubmission kept original note; reused setup URL showed “Already saved.” |
 
 In your repository, replace this row with your issue, implementation link, and what you actually checked. LINK-001's existing tests check saving; they do not establish that the new help text appears correctly.
